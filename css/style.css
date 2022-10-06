@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Source+Code+Pro:wght@300&display=swap');
+
+body {
+    background-color: rgb(192, 181, 166);
+}
+
+.heading { 
+    text-align: center;
+}
+
+.playground-heading { 
+    color: darkgreen;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 3rem;
+}
+
+.main {
+    border: 3px solid brown;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+height: 200px;
+width: 200px;
+border: 1px solid black;
+border-radius: 50%;
+margin: 2rem auto;
+}
+
+#green {
+border-color: blanchedalmond;
+}
+
+#blue { 
+    border-color: darkgreen;
+}
+
+#purple { 
+    border-color: orange;
+}
+
+
+.footer{
+    color: wheat;
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    text-align: center;
+ }
