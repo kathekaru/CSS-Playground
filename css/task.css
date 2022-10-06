@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Source+Code+Pro:wght@300&display=swap');
+
+body { 
+    background-color: gray;
+}
+
+.incredients { 
+    border: 1px solid darkred;
+    font-family: 'Source Code Pro', monospace;
+    width: 50%;
+    margin: 2rem;
+}
+
+.ingredients-table { 
+   border: 1px solid darkred;
+   margin: 2rem;
+   font-family: 'Source Code Pro', monospace;
+   color: azure;
+   width: 30%;
+}
+
+.ingredients-img { 
+    width: 20%;
+    margin: 2rem;
+    border-radius: 8px;
+}
+
+.Instructions { 
+border: 1px solid darkred;
+font-family: 'Source Code Pro', monospace;
+width: 50%;
+    margin: 2rem;
+    color: azure;
+}
+
+.footer { 
+width: 50%;
+color: azure;
+margin: 2rem;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
